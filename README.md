@@ -24,6 +24,8 @@ Or install it yourself as:
 
 Simply call `to_sponge_mock` on a String like so:
 ```
+require 'sponge_mock'
+
 'I am using this'.to_sponge_mock
 # =>  "I Am uSiNg ThIs"
 ```
