@@ -2,7 +2,7 @@
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/sponge_mock`. To experiment with that code, run `bin/console` for an interactive prompt.
 
-TODO: Delete this and the text above, and describe your gem
+TODO: DeLeTe ThIs aNd tHe TeXt AbOvE, aNd DeScRiBe YoUr gEm
 
 ## Installation
 
@@ -22,7 +22,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Simply call `to_sponge_mock` on a String like so:
+```
+'I am using this'.to_sponge_mock
+# =>  "I Am uSiNg ThIs"
+```
 
 ## Development
 
@@ -32,7 +36,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/sponge_mock.
+Bug reports and pull requests are welcome on GitHub at https://github.com/amlydu/sponge_mock.
 
 ## License
 
